@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @frodeto
-- 👀 I’m interested in Java programming, microservices and data science
-- 🌱 I’m currently learning more about data science
-- 📫 I can be reaced on LinkedIn.
+👋 Hi, there! I am a software developer based in Oslo as an independent contractor. Working primarily with Kotlin/Java/Spring Boot, but with experience also from other tech stacks and from data science.
+📫 I can be reaced on [LinkedIn](https://www.linkedin.com/in/frode-torvund-abb2ab1).
 
 <!---
 frodeto/frodeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
